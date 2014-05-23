@@ -1,0 +1,6 @@
+{:+ {:app [(:lt.objs.plugins/load-js "codemirror/hy.js" true)
+           (:lt.objs.files/file-types [{:exts [:hy],
+                                        :mime "text/x-hy", ;; the mime type of your new mode
+                                        :name "hy",
+                                        :tags [:editor.hy]}])
+           ]}}

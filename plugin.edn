@@ -1,0 +1,5 @@
+{:name "Hy mode"
+ :author "Felix Benner"
+ :source "https://github.com/Tordmor/LightTable-Hy"
+ :desc "Hy mode for Light Table editor"
+ :behaviors "hy.behaviors"}
